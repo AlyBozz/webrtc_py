@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>rtc_py_demo</name>
+  <version>0.0.0</version>
+  <description>ROS 2 package for WebRTC streaming on Raspberry Pi using libcamera.</description>
+  <author>Aly Soliman</author>
+  <maintainer>Aly Soliman</maintainer>
+  <license>Apache-2.0</license>
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>aiortc</exec_depend>
+  <exec_depend>aiohttp</exec_depend>
+  <!-- Add any other runtime dependencies -->
+  <buildtool_depend>ament_python</buildtool_depend>
+</package>
