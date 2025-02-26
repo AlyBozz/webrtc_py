@@ -1,0 +1,6 @@
+aiohttp
+aiortc
+libcamera
+numpy
+opencv-python
+```
